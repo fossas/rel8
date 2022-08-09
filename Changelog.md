@@ -1,3 +1,9 @@
+# 1.3.1.1 (2022-08-09)
+
+## Other
+
+* Specifies support for hasql >= 1.6.0.1.
+
 # 1.3.1.0 (2022-01-20)
 
 ## Other
